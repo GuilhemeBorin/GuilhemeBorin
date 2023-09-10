@@ -1,7 +1,6 @@
 ### Olá, Sou o Guilherme Borin 👋
 
-- 🌱 Estou estudando Análise e Desenvolvimento de Sistemas
-- 📫 Contate-me no email: guilhermebg2004@gmail.com
+- 🌱 Estudando Análise e Desenvolvimento de Sistemas
 
 <div>
   <a href="https://github.com/GuilhemeBorin">
@@ -23,3 +22,4 @@
   <a href="https://www.linkedin.com/in/guilherme-borin-galeno-90a940226" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+![Snake animation] (https://github.com/GuilhemeBorin/blob/output/github-contribuition-drio-snake.svg)
