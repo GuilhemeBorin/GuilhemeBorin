@@ -2,7 +2,7 @@
 
 - Análise e Desenvolvimento de Sistemas
 
-<picture>
+<!-- <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=GuilhemeBorin&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
@@ -12,7 +12,7 @@
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=GuilhemeBorin&show_icons=true" />
-</picture>
+</picture> -->
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=GuilhemeBorin" />
