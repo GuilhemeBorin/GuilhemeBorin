@@ -2,27 +2,19 @@
 
 - Análise e Desenvolvimento de Sistemas
 
-<!-- <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=GuilhemeBorin&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=GuilhemeBorin&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=GuilhemeBorin&show_icons=true" />
-</picture> -->
-<div>
+<!-- <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=195 align="center" src="https://github-readme-stats.vercel.app/api?username=GuilhemeBorin" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=195 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GuilhemeBorin&layout=compact&langs_count=8&card_width=320" />
 </a>
+</div>  -->
+<div>
+  <img  height="200" width="400em" src="https://github-readme-stats.vercel.app/api?username=GuilhemeBorin&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img  align="left" height="200" width="430em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhemeBorin&layout=compact&langs_count=16&theme=dark"/>
 </div>
-
-
+<br>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Borin-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -39,4 +31,4 @@
   <a href="https://www.linkedin.com/in/guilherme-borin-galeno-90a940226" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-![Snake animation] (https://github.com/GuilhemeBorin/blob/output/github-contribuition-drio-snake.svg)
+![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
