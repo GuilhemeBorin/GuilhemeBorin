@@ -2,7 +2,7 @@
 
 - 🌱 Estudando Análise e Desenvolvimento de Sistemas
 
-<div>
+
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=GuilhemeBorin&show_icons=true&theme=dark"
@@ -14,7 +14,7 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
-</div>
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Borin-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
