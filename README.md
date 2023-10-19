@@ -34,4 +34,4 @@
   <a href="https://www.linkedin.com/in/guilherme-borin-galeno-90a940226" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-![Snake animation](https://github.com/GuilhemeGaleno/GuilhemeGaleno/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/GuilhemeBorin/GuilhemeBorin/blob/output/github-contribution-grid-snake.svg)
