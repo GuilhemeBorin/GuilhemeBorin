@@ -1,15 +1,6 @@
 ### Bem vindo!
 
-- Análise e Desenvolvimento de Sistemas
 
-<!-- <div>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=195 align="center" src="https://github-readme-stats.vercel.app/api?username=GuilhemeBorin" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=195 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GuilhemeBorin&layout=compact&langs_count=8&card_width=320" />
-</a>
-</div>  -->
 <div>
   <img  height="200" width="400em" src="https://github-readme-stats.vercel.app/api?username=GuilhemeBorin&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img  align="left" height="200" width="430em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhemeBorin&layout=compact&langs_count=16&theme=dark"/>
