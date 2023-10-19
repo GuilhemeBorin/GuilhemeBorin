@@ -1,4 +1,4 @@
-### Olá, Sou o Guilherme Borin 👋
+### Olá, Sou o Guilherme Borin 
 
 - Análise e Desenvolvimento de Sistemas
 
