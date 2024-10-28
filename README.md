@@ -13,11 +13,8 @@
   <img align="center" alt="Borin-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Borin-Mysql" height="30" width="40" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Borin-Figma" height="30" width="40" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
- 
-
-  <br>
-  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-  
+  <img align="center" alt="Borin-ElasticSearch" height="30" width="40" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg">
+  <img align="center" alt="Borin-Prometheus" height="30" width="40" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg">
   <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
 </div>
