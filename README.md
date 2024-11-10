@@ -1,22 +1,26 @@
 ### Bem vindo!🪴
 
-
 <div>
-  
+  <img  height="200" width="400em" src="https://github-readme-stats.vercel.app/api?username=GuilhemeBorin&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img  align="left" height="200" width="430em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhemeBorin&layout=compact&langs_count=16&theme=dark"/>
 </div>
 <br>
 
 <div style="display: inline_block"><br>
+
+  **Linguagens**
   <img align="center" alt="Borin-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Borin-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Borin-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+
+  **Banco de Dados**
   <img align="center" alt="Borin-Mysql" height="30" width="40" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  
+  
+  **Ferramentas**
   <img align="center" alt="Borin-Figma" height="30" width="40" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
   <img align="center" alt="Borin-ElasticSearch" height="30" width="40" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg">
   <img align="center" alt="Borin-Prometheus" height="30" width="40" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg">
-  
-
 </div>
 
  ##
