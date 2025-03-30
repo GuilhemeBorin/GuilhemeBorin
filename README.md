@@ -12,7 +12,7 @@ Software development student focused on observability, aiming to enhance skills 
   <img align="center" alt="Borin-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Borin-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Borin-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-
+  <img align="center" alt="Borin-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 
   ## Banco de Dados | Database                            
   <img align="center" alt="Borin-Mysql" height="40" width="60" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql//mysql-original.svg">
