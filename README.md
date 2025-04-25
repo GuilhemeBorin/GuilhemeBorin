@@ -1,9 +1,9 @@
 ### Bem vindo! | Welcome! 🌱
 <div style="display: flex; align-items: center; justify-content: space-between;">
 
-Estudante de desenvolvimento de software, com foco em observabilidade, buscando aprimorar habilidades em tecnologias e linguagens para criar soluções eficientes e escaláveis.
+Estudante de desenvolvimento de software com foco em observabilidade. Motivado a criar soluções eficientes e escaláveis, utilizando tecnologias modernas.
 <br><br>
-Software development student focused on observability, aiming to enhance skills in technologies and languages to create efficient and scalable solutions
+Software development student with a focus on observability. Driven to build efficient and scalable solutions, leveraging modern technologies.
 
 <div style="display: inline_block">
 
