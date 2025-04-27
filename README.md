@@ -27,9 +27,10 @@ Software development student with a focus on observability. Driven to build effi
   <a href ="mailto:guilhermerbg2004@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/guilherme-borin-galeno-90a940226" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
-  <img height="200" width="400" src="https://github-readme-stats.vercel.app/api?username=GuilhemeBorin&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="200" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhemeBorin&layout=compact&langs_count=16&theme=dark" />
+  <div>
+    <img height="210" src="https://github-readme-stats.vercel.app/api?username=GuilhemeBorin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+    <img height="210" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhemeBorin&show_icons=true&theme=tokyonight&layout=compact&langs_count=10"  />
+  </div> 
 </div>
 
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
